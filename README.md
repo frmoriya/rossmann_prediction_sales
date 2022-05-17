@@ -2,16 +2,15 @@
 ![](img/rossman_2.jpg)
 
 # 1. Business Problem
-Rossmann is a drugstore chain that operates in 7 European countries.
-The CFO needs a predict sales at 6 weeks in advance to plan store renovations.
-Store sales are influenced by local variations such as competition, promotions, school holidays, seasonality.
-According to this scenario, sales prediction are not satisfactory. a sales prediction analysis was requested using the techniques ml
+Rossmann is a drugstore chain that operates in 7 European countries.</br>
+The CFO needs a predict sales at 6 weeks in advance to plan store renovations.</br>
+Store sales are influenced by local variations such as competition, promotions, school holidays, seasonality.</br>
+According to this scenario, sales prediction are not satisfactory. a sales prediction analysis was requested using the techniques ML.
 
 # 2. Business Assumptions
 - Stores without information distance: The longest distance identified in the dataset was assumed.
 - Stores without Competition Open Since: The date of sale was assumed.
 - Days that stores are closed will not be considered.
-
 
 # 3. Attribute List
 
@@ -32,7 +31,7 @@ According to this scenario, sales prediction are not satisfactory. a sales predi
 - PromoInterval - describes the consecutive intervals Promo2 is started, naming the months the promotion is started anew. E.g. "Feb,May,Aug,Nov" means each round starts in February, May, August, November of any given year for that store
 
 # 4. Solution Strategy
-The CRISP-DM was used for the development of this project.
+The **CRISP-DM** was used for the development of this project.
 Below are the steps used in this project:
 - 4.1. Data Description
 - 4.2. Feature Engineering
@@ -63,7 +62,7 @@ Below are the steps used in this project:
 ![](img/h10.jpg)
 
 # 6. Machine Learning Model
-
+We used Machine Learning below:
 - Average Model
 - Linear Regression Model
 - Linear Regression Regularized Model (Lasso)
