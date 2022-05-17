@@ -82,6 +82,7 @@ We used Machine Learning below:
 
 # 7. Business Results
 
+![](img/business_performance.jpg)
 
 # 8. Conclusion
 
