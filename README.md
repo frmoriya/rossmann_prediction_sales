@@ -42,7 +42,7 @@ According to this scenario, sales prediction are not satisfactory. a sales predi
 - PromoInterval - describes the consecutive intervals Promo2 is started, naming the months the promotion is started anew. E.g. "Feb,May,Aug,Nov" means each round starts in February, May, August, November of any given year for that store
 
 # 4. Solution Strategy
-The **CRISP-DM** was used for the development of this project.
+The **CRISP-DM** method was used for this project.
 Below are the steps used in this project:
 - 4.1. Data Description
 - 4.2. Feature Engineering
