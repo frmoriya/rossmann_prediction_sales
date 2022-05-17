@@ -73,7 +73,9 @@ We used Machine Learning below:
 
 ![](img/ML_Performance.jpg)
 
-6.2 Machine Learnig Performance after Hyperparemeter Fine Tuning
+# 6.2 Machine Learnig Performance after Hyperparemeter Fine Tuning
+
+![](img/fine_tuning.jpg)
 
 6.3 Model performance vs Business values
 
