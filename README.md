@@ -1,19 +1,19 @@
-# rossmann_prediction_sales
+# Rossmann Prediction Sales
+![](img/rossman_2.jpg)
 
-
-1. Business Problem
+# 1. Business Problem
 Rossmann is a drugstore chain that operates in 7 European countries.
 The CFO needs a predict sales at 6 weeks in advance to plan store renovations.
 Store sales are influenced by local variations such as competition, promotions, school holidays, seasonality.
 According to this scenario, sales prediction are not satisfactory. a sales prediction analysis was requested using the techniques ml
 
-2. Business Assumptions
+# 2. Business Assumptions
 - Stores without information distance: The longest distance identified in the dataset was assumed.
 - Stores without Competition Open Since: The date of sale was assumed.
 - Days that stores are closed will not be considered.
 
 
-3. Attribute List
+# 3. Attribute List
 
 - Id - an Id that represents a (Store, Date) duple within the test set
 - Store - a unique Id for each store
@@ -31,34 +31,35 @@ According to this scenario, sales prediction are not satisfactory. a sales predi
 - Promo2Since[Year/Week] - describes the year and calendar week when the store started participating in Promo2
 - PromoInterval - describes the consecutive intervals Promo2 is started, naming the months the promotion is started anew. E.g. "Feb,May,Aug,Nov" means each round starts in February, May, August, November of any given year for that store
 
-4. Solution Strategy
-4.1 - Data Description
-4.2 - Feature Engineering
-4.3 - Variable Filtering
-4.4 - Exploratory Data Analysis
-4.5 - Data Preparation
-4.6 - Feature Selection
-4.7 - Machine Learning Modeling
-4.8 - Machine Learning  - Cross Validation
-4.9 - Compare Model´s Performance
-4.10 - Hyperparameter Fine Tuning
-4.11 - Convert Model Performance to Business Values
+# 4. Solution Strategy
+We use the CRISP-DM method in this project. 
+- 4.1. Data Description
+- 4.2. Feature Engineering
+- 4.3. Variable Filtering
+- 4.4. Exploratory Data Analysis
+- 4.5. Data Preparation
+- 4.6. Feature Selection
+- 4.7. Machine Learning Modeling
+- 4.8. Machine Learning  - Cross Validation
+- 4.9. Compare Model´s Performance
+- 4.10. Hyperparameter Fine Tuning
+- 4.11. Convert Model Performance to Business Values
 
-5. Top 3 Data Insights
+# 5. Top 3 Data Insights
 H1. Stores with bigger assortments should sell more.
-FALSE : Store with BIGGER assortments sell LESS.
+<p>FALSE : Store with BIGGER assortments sell LESS.</p>
 Grafico
 
 H7. Stores open during the Christmas holiday should sell more.
-False: Store open during the Christmas holiday sell less.
+<p>False: Store open during the Christmas holiday sell less</p>.
 
 Grafico
 
 H10. Stores should sell more after the 10th of each month.
-True: Stores sell more after 10th of each month.
+<p>True: Stores sell more after 10th of each month.</p>
 Grafico
 
-6. Machine Learning Model
+# 6. Machine Learning Model
 
 - Average Model
 - Linear Regression Model
@@ -74,11 +75,11 @@ Grafico
 6.3 Model performance vs Business values
 
 
-7. Business Results
+# 7. Business Results
 
 
-8. Conclusion
+# 8. Conclusion
 
-9. Telegram Bot
+# 9. Telegram Bot
 
-<p>Technologies<p>
+# 10. Technologies
