@@ -47,18 +47,20 @@ Below are the steps used in this project:
 - 4.11. Convert Model Performance to Business Values
 
 # 5. Top 3 Data Insights
-H1. Stores with bigger assortments should sell more.
-<p>FALSE : Store with BIGGER assortments sell LESS.</p>
-Grafico
+**H1.** Stores with bigger assortments should sell more.</br>
+**FALSE:** Store with BIGGER assortments sell LESS.
 
-H7. Stores open during the Christmas holiday should sell more.
-<p>False: Store open during the Christmas holiday sell less</p>.
+![](img/h1.jpg)
 
-Grafico
+**H7.** Stores open during the Christmas holiday should sell more.</br>
+**False:** Store open during the Christmas holiday sell less.
 
-H10. Stores should sell more after the 10th of each month.
-<p>True: Stores sell more after 10th of each month.</p>
-Grafico
+![](img/h7.jpg)
+
+**H10.** Stores should sell more after the 10th of each month.</br>
+**True:** Stores sell more after 10th of each month.
+
+![](img/h10.jpg)
 
 # 6. Machine Learning Model
 
