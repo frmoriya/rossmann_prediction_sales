@@ -71,7 +71,7 @@ We used Machine Learning below:
 
 # 6.1 Machine Learning Models Performance
 
-![](img/ML_Performance.jpg)
+![](img/real_crossvalidation.jpg)
 
 # 6.2 Machine Learnig Performance after Hyperparemeter Fine Tuning
 
