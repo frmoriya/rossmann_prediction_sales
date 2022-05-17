@@ -69,8 +69,9 @@ We used Machine Learning below:
 - Random Forest Regressor
 - XGBoost Regressor
 
-6.1 Machine Learning Models Performance
+# 6.1 Machine Learning Models Performance
 
+![](img/ML_Performance.jpg)
 
 6.2 Machine Learnig Performance after Hyperparemeter Fine Tuning
 
