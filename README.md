@@ -1,6 +1,17 @@
 # Rossmann Prediction Sales
 ![](img/rossman_2.jpg)
 
+The objectives of this project are:</br>
+- Sales exploratory data analysis
+- Predict sales for the next 6 weeks for each store
+- Access predict sales for Telegram
+
+This project uses dataset extracted from [Kaggle](https://www.kaggle.com/c/rossmann-store-sales).
+All information is fictitious.
+
+# Contact:
+
+
 # 1. Business Problem
 Rossmann is a drugstore chain that operates in 7 European countries.</br>
 The CFO needs a predict sales at 6 weeks in advance to plan store renovations.</br>
@@ -89,3 +100,11 @@ We used Machine Learning below:
 # 9. Telegram Bot
 
 # 10. Technologies
+- Jupyter Notebook
+- Pyhton
+- Heroku
+- Telegram (API)
+- 
+# Author:
+Francisco Moriya
+
