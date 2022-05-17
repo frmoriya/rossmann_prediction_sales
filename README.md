@@ -100,11 +100,10 @@ We used Machine Learning below:
 # 9. Telegram Bot
 
 # 10. Technologies
-- Jupyter Notebook
-- Pyhton
-- Heroku
-- Telegram (API)
-- 
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+ 
 # Author:
-Francisco Moriya
-
+### Francisco Moriya</br>
+[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/francisco-moriya-43560b11/)
