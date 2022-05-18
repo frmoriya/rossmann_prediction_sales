@@ -90,16 +90,18 @@ The **Random Forest Regressor** model showed the best performance(RMSE=1011). Bu
 
 To optimize server costs, the **XGBoost Regressor** model was chosen, because the **Random Forest Regressor** model demands a lot of server resources.
 
-# 7. Model performance vs Business values
+# 8. Business Results
 The table below shows the worst store predictions, explaining that some stores are more difficult to predict sales.
 
 ![](img/bs_performance.jpg)
 
-# 8. Business Results
+the table below shows the total values for all stores and the worst and best scenarios:
 
 ![](img/business_performance.jpg)
 
 # 9. Conclusion
+
+
 
 # 10. Telegram Bot
 
