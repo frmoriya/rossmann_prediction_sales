@@ -91,7 +91,9 @@ The **Random Forest Regressor** model showed the best performance(RMSE=1011). Bu
 To optimize server costs, the Xboost model was chosen, because the Random model demands a lot of server resources.
 
 # 7. Model performance vs Business values
+The table below shows the worst store predictions, explaining that some stores are more difficult to predict sales.
 
+![](img/bs_performance.jpg)
 
 # 8. Business Results
 
