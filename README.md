@@ -72,34 +72,36 @@ Below are the steps used in this project:
 
 ![](img/h10.jpg)
 
-# 6. Machine Learning Model
-We used Machine Learning below:
+# 6. Machine Learning Model Performance
+This project were used Machine Learning model below:
 - Average Model
 - Linear Regression Model
 - Linear Regression Regularized Model (Lasso)
 - Random Forest Regressor
 - XGBoost Regressor
 
-# 6.1 Machine Learning Models Performance
+The performance of each model and the Mean Absolute Error (MAE), the Mean Absolute Percentage Error (MAPE) and the Root Mean Squared Error (RMSE) are represented in the table below:
 
-![](img/real_crossvalidation.jpg)
+![](img/ml_performance.jpg)
 
-# 6.2 Machine Learnig Performance after Hyperparemeter Fine Tuning
+The **Random Forest Regressor** model showed the best performance(RMSE=1011). But, after hyperparementer fine tuning, the **XGBoost Regressor** model showed similar performance (RMSE= 956).
 
 ![](img/fine_tuning.jpg)
 
-6.3 Model performance vs Business values
+To optimize server costs, the Xboost model was chosen, because the Random model demands a lot of server resources.
+
+# 7. Model performance vs Business values
 
 
-# 7. Business Results
+# 8. Business Results
 
 ![](img/business_performance.jpg)
 
-# 8. Conclusion
+# 9. Conclusion
 
-# 9. Telegram Bot
+# 10. Telegram Bot
 
-# 10. Technologies
+# 11. Technologies
 [<img alt="Jupyter Notebook" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white"/>](https://jupyter.org/)
 [<img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/>](https://www.heroku.com/)
 [<img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>](https://www.python.org/)
