@@ -9,8 +9,6 @@ The objectives of this project are:</br>
 This project uses dataset extracted from [Kaggle](https://www.kaggle.com/c/rossmann-store-sales).
 All information is fictitious.
 
-# Contact:
-
 
 # 1. Business Problem
 Rossmann is a drugstore chain that operates in 7 European countries.</br>
@@ -24,7 +22,7 @@ According to this scenario, sales prediction are not satisfactory. a sales predi
 - Days that stores are closed will not be considered.
 
 # 3. Attribute List
-
+The dataset contains sales of 1,115 stores.
 - Id - an Id that represents a (Store, Date) duple within the test set
 - Store - a unique Id for each store
 - Sales - the turnover for any given day (this is what you are predicting)
@@ -99,14 +97,20 @@ the table below shows the total values for all stores and the worst and best sce
 
 ![](img/business_performance.jpg)
 
-# 8. Conclusion
-The CFO is able to check prediction sales by mobile and carry out store renovation planning.
-The values obtained are from the first CRISP-DS cycle, and may be improved in the next cycles.
+# 8. Business Conclusion
+- ML techniques enable more assertive decision making.
+- Dataset information allowed making future sales forecasts.
+- The CFO is able to check prediction sales by mobile.
+- The values obtained are from the first CRISP-DS cycle, and may be improved in the next cycles.
 
-# 9. Telegram Bot
+# 9. Architecture and Model Deploy
+
+
+
+# 10. Telegram Bot
 To use the prediction sales model, acess the Telegram and add the "Sales Prediction Bot" 
 
-# 10. Instructions to
+
 
 # 11. Technologies
 [<img alt="Jupyter Notebook" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white"/>](https://jupyter.org/)
