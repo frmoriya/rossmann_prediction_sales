@@ -109,16 +109,20 @@ the ml model was deployed on Heroku Cloud
 ![](img/production_architecture.jpg)
 
 # 10. Telegram Bot
-The Telegram Bot API Deploy on Heroku cloud.
-
-To use the prediction sales model, acess the Telegram and add the "Sales Prediction Bot" 
+The Telegram Bot API deployed on Heroku cloud.
 
 ![](img/telegram_architecture.jpg)
 
+To use the prediction sales model, acess the Telegram and add the "Sales Prediction Bot" 
+
+You cam launch the app:
+[![Telegram Bot](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rsm_model_bot)
+
+![](img/telegram_bot_welcome.jpg) </br>
 
 
-You cam launch the app: [![Telegram Bot](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rsm_model_bot)
 
+![](img/telegram_bot_screen.jpg)
 
 # 11. Technologies
 [<img alt="Jupyter Notebook" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white"/>](https://jupyter.org/)
