@@ -104,8 +104,9 @@ the table below shows the total values for all stores and the worst and best sce
 - The values obtained are from the first CRISP-DS cycle, and may be improved in the next cycles.
 
 # 9. Architecture and Model Deploy
+the ml model was deployed on Heroku Cloud
 
-
+![](img/production_architecture.jpg)
 
 # 10. Telegram Bot
 To use the prediction sales model, acess the Telegram and add the "Sales Prediction Bot" 
