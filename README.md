@@ -115,9 +115,9 @@ To use the prediction sales model, acess the Telegram and add the "Sales Predict
 
 ![](img/telegram_architecture.jpg)
 
-You can launch the app here:https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white https://t.me/rsm_model_bot
 
-You cam luanch the app: [![Telegram Bot](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rsm_model_bot)
+
+You cam launch the app: [![Telegram Bot](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rsm_model_bot)
 
 
 # 11. Technologies
