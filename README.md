@@ -90,7 +90,7 @@ The **Random Forest Regressor** model showed the best performance(RMSE=1011). Bu
 
 To optimize server costs, the **XGBoost Regressor** model was chosen, because the **Random Forest Regressor** model demands a lot of server resources.
 
-# 8. Business Results
+# 7. Business Results
 The table below shows the worst store predictions, explaining that some stores are more difficult to predict sales.
 
 ![](img/bs_performance.jpg)
@@ -99,11 +99,14 @@ the table below shows the total values for all stores and the worst and best sce
 
 ![](img/business_performance.jpg)
 
-# 9. Conclusion
+# 8. Conclusion
+The CFO is able to check prediction sales by mobile and carry out store renovation planning.
+The values obtained are from the first CRISP-DS cycle, and may be improved in the next cycles.
 
+# 9. Telegram Bot
+To use the prediction sales model, acess the Telegram and add the "Sales Prediction Bot" 
 
-
-# 10. Telegram Bot
+# 10. Instructions to
 
 # 11. Technologies
 [<img alt="Jupyter Notebook" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white"/>](https://jupyter.org/)
